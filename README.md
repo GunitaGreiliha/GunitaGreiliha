@@ -5,5 +5,5 @@ With a goal to achieve this in the next two years, I'm eager to learn and apply 
 
 
 * 🔭 Currently studying Software Engineering on the Bootcamp with HyperionDev
-* 📝 HyperionDev Portfolio
-* 📫 Please reach to any of the Social-Media Platforms
+* 📝 HyperionDev [Portfolio](https://www.hyperiondev.com/portfolio/120389/)
+* 📫 Please reach to any of my Social-Media Platforms
